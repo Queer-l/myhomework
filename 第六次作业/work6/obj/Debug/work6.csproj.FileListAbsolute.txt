@@ -1,0 +1,10 @@
+D:\软件构造基础作业\第六次作业\work6\bin\Debug\work6.exe.config
+D:\软件构造基础作业\第六次作业\work6\bin\Debug\work6.exe
+D:\软件构造基础作业\第六次作业\work6\bin\Debug\work6.pdb
+D:\软件构造基础作业\第六次作业\work6\obj\Debug\work6.csproj.AssemblyReference.cache
+D:\软件构造基础作业\第六次作业\work6\obj\Debug\work6.Properties.Resources.resources
+D:\软件构造基础作业\第六次作业\work6\obj\Debug\work6.csproj.GenerateResource.cache
+D:\软件构造基础作业\第六次作业\work6\obj\Debug\work6.csproj.CoreCompileInputs.cache
+D:\软件构造基础作业\第六次作业\work6\obj\Debug\work6.exe
+D:\软件构造基础作业\第六次作业\work6\obj\Debug\work6.pdb
+D:\软件构造基础作业\第六次作业\work6\obj\Debug\work6.exe.config
